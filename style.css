@@ -19,7 +19,7 @@ body {
         #241622;
 
     color: white;
-
+ overflow-y: auto;
 }
 
 .card {
