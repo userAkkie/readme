@@ -1,12 +1,4 @@
-/*
-const button = document.querySelector("button");
-const quote = document.querySelector(".quote");
 
-button.addEventListener("click", function () {
-    quote.textContent = "You did something today. That's enough. 🌷";
-    button.textContent = "You did it! ♡";
-}); 
-*/
 
 const crushes = [
     {
